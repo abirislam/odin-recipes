@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple project to remember HTML concepts.
+A simple project assigned by The Odin Project to remember HTML concepts.
